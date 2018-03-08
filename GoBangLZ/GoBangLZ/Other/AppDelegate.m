@@ -20,8 +20,8 @@
 
 @interface AppDelegate ()<UNUserNotificationCenterDelegate>
 
-#define    JPUSHKEY @"7b8ba0d4fa32647a91a65773"
-#define    UMessageAppKey @"5a90faf2f29d9839b80002de"
+#define    JPUSHKEY @""
+#define    UMessageAppKey @""
 @end
 
 @implementation AppDelegate
