@@ -42,7 +42,6 @@
 //    self.window.backgroundColor = [UIColor whiteColor];
 //    [self.window makeKeyWindow];
 //    [self.window makeKeyAndVisible];
-    
     return YES;
 }
 #pragma  mark - 自带推送
