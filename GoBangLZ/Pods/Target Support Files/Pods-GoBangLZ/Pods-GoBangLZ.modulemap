@@ -1,0 +1,6 @@
+framework module Pods_GoBangLZ {
+  umbrella header "Pods-GoBangLZ-umbrella.h"
+
+  export *
+  module * { export * }
+}
